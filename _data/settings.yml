@@ -39,7 +39,7 @@ hero:
 
 social:
 - {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-linkedin", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
@@ -106,7 +106,7 @@ experience-title: Experience
 experience:
 - {name: Junior Software Engineer, icon: 'icon-1.png', date: 'Nov 2016 - Nov 2017', organization: 'Legato Technology'}
 - {name: Software Engineer, icon: 'icon-3.png', date: 'Nov 2017 - Jun 2018', organization: 'Legato Technology'}
-- {name: Senior Software Engineer, icon: 'icon-3.png', date: 'Jun 2018 - Present', organization: 'Legato Technology'}
+- {name: Senior Software Developer, icon: 'icon-3.png', date: 'Jun 2018 - Present', organization: 'Legato Technology'}
 - {name: Android Developer, icon: 'icon-2.png', date: 'Mar 2018 - Present', organization: 'PsychoDevs (Freelance)'}
 
 
