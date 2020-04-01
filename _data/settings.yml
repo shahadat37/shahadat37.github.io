@@ -9,7 +9,7 @@ address: Dhaka - 1229, Bangladesh
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+# - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
