@@ -127,13 +127,13 @@ education:
 services-title: Services
 services:
 - {
-    name: Android App Development,
+    name: Android Custom OS Development,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
 - {
-    name: Android Custom OS Development,
+    name: Android App Development,
     icon: ti-vector,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
@@ -145,7 +145,13 @@ services:
     active: # Add true to select section
   }
 - {
-    name: Embedded System Development & IOT,
+    name: Embedded System Development,
+    icon: ti-panel,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    active: # Add true to select section
+  }
+- {
+    name: Internet of Things,
     icon: ti-panel,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
