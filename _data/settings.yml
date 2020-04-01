@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Portfolio - Shahadat
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: writeshahadat@gmail.com
+phone: +880 1839 776 537
+address: Dhaka - 1229, Bangladesh
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Shahadat <br> Software Engineer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -74,11 +74,11 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Razib Palash"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
     
-  - title : "Julias Carlie"
+  - title : "Ataul Gani Galib"
     image : "assets/images/team/member-2.png"
     designation : "Web Developer"
     
@@ -92,10 +92,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Web Development, color: '#fdb157', value: '50%'}
+- {name: Android Development, color: '#9473e6', value: '90%'}
+- {name: Internet of Things, color: '#bdecf6', value: '70%'}
+- {name: Embedded System Development, color: '#ffbcaa', value: '65%'}
 
 
 #-------------------------------
@@ -103,9 +103,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Junior Software Engineer, icon: 'icon-1.png', date: 'Nov 2016 - Nov 2017', organization: 'Legato Technology'}
+- {name: Senior Software Engineer, icon: 'icon-3.png', date: 'Nov 2017 - Present', organization: 'Legato Technology'}
+- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2017 - Present', organization: 'Psycho Devs (Remote)'}
 
 
 #-------------------------------
@@ -113,10 +113,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: B.Sc. in Computer Science, date: '2016', organization: 'American international University - Bangladesh'}
+- {name: Higher Secondary Certificate, date: '2010', organization: 'Dhaka Imperial College'}
+- {name: Secondary School Certificate, date: '2008', organization: 'Khalilur Rahman High School'}
+
 
 
 #-------------------------------
@@ -125,23 +125,30 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Android App Development,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Android Custom OS Development,
     icon: ti-vector,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Web Development,
     icon: ti-panel,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
+- {
+    name: Embedded System Development & IOT,
+    icon: ti-panel,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    active: # Add true to select section
+  }
+
 
 
 
@@ -169,34 +176,38 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "Android App",
+    type : "Android"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Smart Home System",
+    type : "IOT"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Ascot Sports",
+    type : "Web"
+  }
+- {
+    title : "Custom System",
+    type : "Android"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "android"
+     - type: "iot"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "iot"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
@@ -207,29 +218,29 @@ portfolio-items:
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "iot"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "Android"
+      - type: "IOT"
+      - type: "Web"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "web"
 
 
 #-------------------------------
@@ -290,4 +301,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: writeshahadat@gmail.com
