@@ -221,8 +221,8 @@ portfolio-items:
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "android"
+      - type: "iot"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
@@ -242,9 +242,9 @@ portfolio-items:
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "Android"
-      - type: "IOT"
-      - type: "Web"
+      - type: "android"
+      - type: "iot"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
