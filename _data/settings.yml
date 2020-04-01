@@ -186,19 +186,19 @@ portfolio-home-items:
 portfolio-label:
 - {
     title : "Android App",
-    type : "Android"
+    type : "android"
   }
 - {
     title : "Smart Home System",
-    type : "IOT"
+    type : "iot"
   }
 - {
     title : "Ascot Sports",
-    type : "Web"
+    type : "web"
   }
 - {
     title : "Custom System",
-    type : "Android"
+    type : "android"
   }
 
 portfolio-items:
