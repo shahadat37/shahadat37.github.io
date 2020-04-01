@@ -92,10 +92,11 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Development, color: '#fdb157', value: '50%'}
 - {name: Android Development, color: '#9473e6', value: '90%'}
 - {name: Internet of Things, color: '#bdecf6', value: '70%'}
 - {name: Embedded System Development, color: '#ffbcaa', value: '65%'}
+- {name: Web Development, color: '#fdb157', value: '50%'}
+
 
 
 #-------------------------------
@@ -104,8 +105,9 @@ skills:
 experience-title: Experience
 experience:
 - {name: Junior Software Engineer, icon: 'icon-1.png', date: 'Nov 2016 - Nov 2017', organization: 'Legato Technology'}
-- {name: Senior Software Engineer, icon: 'icon-3.png', date: 'Nov 2017 - Present', organization: 'Legato Technology'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2017 - Present', organization: 'Psycho Devs (Remote)'}
+- {name: Software Engineer, icon: 'icon-3.png', date: 'Nov 2017 - Jun 2018', organization: 'Legato Technology'}
+- {name: Senior Software Engineer, icon: 'icon-3.png', date: 'Jun 2018 - Present', organization: 'Legato Technology'}
+- {name: Android Developer, icon: 'icon-2.png', date: 'Mar 2017 - Present', organization: 'Psycho Devs (Remote)'}
 
 
 #-------------------------------
