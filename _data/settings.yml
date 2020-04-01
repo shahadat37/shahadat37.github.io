@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Shahadat - Portfolio
-logo: logo.png
+logo: favicon.png
 email: writeshahadat@gmail.com
 phone: +880 1839 776 537
 address: Dhaka - 1229, Bangladesh
@@ -39,8 +39,8 @@ hero:
 
 social:
 - {icon: "ti-facebook", link: "#"}
-- {icon: "ti-linkedin", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/shahadat-hossain-4a607650"}
+# - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
 
